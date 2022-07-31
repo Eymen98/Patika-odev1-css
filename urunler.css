@@ -1,0 +1,44 @@
+body {
+    background-color:white;
+    margin-top: 60px;
+}
+
+a{
+    margin: 25px;
+    text-decoration: none;
+    color: rgb(229, 243, 243);
+    
+} 
+a:hover{
+    color: rgb(253, 11, 23);
+    text-decoration:underline;
+}
+
+.logo:hover{
+    cursor: pointer;
+}
+
+.menu{
+    background-color: rgb(2, 40, 145);
+}
+
+.cicek_1{
+    display: flex;
+}
+
+.cicek_2{
+    display: flex;
+}
+
+span {
+    border-style:ridge;
+    background-color: rgb(230, 223, 230);
+    border-radius: 5px;
+    color: black;
+    font-size:large;
+
+}
+
+.footer{
+    text-align: center;
+}

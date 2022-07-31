@@ -1,0 +1,57 @@
+body {
+    background-color:white;
+    margin-top: 50px;
+}
+
+.photo{
+    
+    border-radius: 75%;
+    margin-top: 10px; 
+}
+
+span{
+    padding:  10px;
+    position: absolute;
+    margin-top: 40px;
+    font-weight:bold;
+}
+
+p {
+    line-height: 25px;
+    text-align: center;
+    margin-top: 75px;
+    border-style: inherit;
+    border-radius: 10px;
+    background-color: #dcdde0;
+    color: black;
+} 
+
+h2 {
+    text-align: center;
+}
+
+.logo:hover{
+    cursor: pointer;
+}
+
+a{
+    margin: 25px;
+    text-decoration: none;
+    color: rgb(10, 10, 138);
+} 
+a:hover{
+    color: rgb(253, 11, 23);
+    text-decoration:underline;
+}
+
+.menu{
+    background-color: #8eb8f9;
+}
+
+
+
+.footer{
+    font-size: 15px;
+    background-color: rgb(36, 35, 35);
+    color: white;
+}

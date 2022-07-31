@@ -1,0 +1,49 @@
+body {
+    background-color:white;
+    margin-top: 40px;
+}
+
+.mario{
+    margin-left: 50px;
+    background-color: rgb(217, 11, 11);
+    border-style: inherit;
+    border-radius: 15px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size:20px;
+}
+
+.tikla {
+    color: red;
+    text-decoration: underline;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.footer{
+    text-align: center;
+}
+
+a{
+    margin: 25px;
+    text-decoration: none;
+    
+} 
+a:hover{
+    color: rgb(253, 11, 23);
+    text-decoration:underline;
+}
+
+.menu{
+    background-color: rgb(227, 250, 25);
+}
+
+.logo:hover{
+    cursor: pointer;
+}
